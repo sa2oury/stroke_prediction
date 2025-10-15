@@ -1,2 +1,0 @@
-# stroke_dataset
-
